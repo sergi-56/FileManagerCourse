@@ -1,0 +1,7 @@
+2026-01-20 02:20:37 INFO  com.course.filemanager.FileManagerService - Чтение директории: /Users/sergi/FileManagerCourse
+2026-01-20 02:24:17 INFO  com.course.filemanager.FileManagerService - Копирование файла /Users/sergi/FileManagerCourse/app/NO_SUCH_FILE.txt в /Users/sergi/Desktop
+2026-01-20 02:24:17 ERROR com.course.filemanager.FileManagerService - Файл не существует: /Users/sergi/FileManagerCourse/app/NO_SUCH_FILE.txt
+2026-01-20 02:26:04 INFO  com.course.filemanager.FileManagerService - Копирование файла /Users/sergi/FileManagerCourse/app/testdir в /Users/sergi/Desktop
+2026-01-20 02:26:04 ERROR com.course.filemanager.FileManagerService - Источник является директорией, а не файлом: /Users/sergi/FileManagerCourse/app/testdir
+2026-01-20 02:27:23 INFO  com.course.filemanager.FileManagerService - Копирование файла /Users/sergi/FileManagerCourse/app/test.txt в /Users/sergi/Desktop
+2026-01-20 02:27:23 INFO  com.course.filemanager.FileManagerService - Файл успешно скопирован: /Users/sergi/Desktop/test.txt

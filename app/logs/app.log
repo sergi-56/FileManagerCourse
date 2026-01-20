@@ -1,0 +1,2 @@
+2026-01-08 01:48:54 INFO  com.course.filemanager.FileManagerService - Копирование файла /var/folders/mx/s7f7zsqx7711bhyrjnh00r840000gn/T/junit4626425525513196386/source.txt в /var/folders/mx/s7f7zsqx7711bhyrjnh00r840000gn/T/junit4626425525513196386/target
+2026-01-08 01:48:54 INFO  com.course.filemanager.FileManagerService - Файл успешно скопирован: /var/folders/mx/s7f7zsqx7711bhyrjnh00r840000gn/T/junit4626425525513196386/target/source.txt
